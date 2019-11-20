@@ -21,4 +21,3 @@ I like to keep track of my favorite tv shows on a text file, so i decided to bui
 - Client side code https://github.com/favoriteshub/client
 - Server side code https://github.com/favoriteshub/api
 - Docker build https://github.com/favoriteshub/docker
-- Api and client documentations https://github.com/favoriteshub/docs
